@@ -6,8 +6,9 @@
 
 <h2 align='left'>✅ This is what I do</h2>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 30%; background-color: #f0f0f0; padding: 20px;">Section 1</div>
-    <div style="width: 30%; background-color: #f0f0f0; padding: 20px;">Section 2</div>
-    <div style="width: 30%; background-color: #f0f0f0; padding: 20px;">Section 3</div>
+
+<div align="center">
+    <img src="https://example.com/icon1.png" width="100px" alt="Icon 1">
+    <img src="https://example.com/icon2.png" width="100px" alt="Icon 2">
+    <img src="https://example.com/icon3.png" width="100px" alt="Icon 3">
 </div>
