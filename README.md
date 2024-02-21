@@ -18,10 +18,10 @@
 ## 🚀 Let's connect
                   
 <p align="left">
-<a href="https://dev.to/antonygatua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antonygatua" height="30" width="40" /></a>
 <a href="https://twitter.com/antonny_muiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antonny_muiko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antonny-muiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonny-muiko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11718375/antonny-muiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11718375/antonny-muiko" height="30" width="40" /></a>
+<a href="https://dev.to/antonygatua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antonygatua" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antonnymuiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antonnymuiko" height="30" width="40" /></a>
 </p>
 
