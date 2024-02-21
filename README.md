@@ -6,9 +6,14 @@
 
 <h2 align='left'>✅ This is what I do</h2>
 
-
 <div align="center">
-    <img src="https://example.com/icon1.png" width="100px" alt="Icon 1">
-    <img src="https://example.com/icon2.png" width="100px" alt="Icon 2">
-    <img src="https://example.com/icon3.png" width="100px" alt="Icon 3">
+    <div style="width: 30%; display: inline-block; text-align: left;">
+        <p>This is the content of the first column.</p>
+    </div>
+    <div style="width: 30%; display: inline-block; text-align: left;">
+        <p>This is the content of the second column.</p>
+    </div>
+    <div style="width: 30%; display: inline-block; text-align: left;">
+        <p>This is the content of the third column.</p>
+    </div>
 </div>
