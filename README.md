@@ -8,7 +8,7 @@
 
 - 🤖 A DevOps engineer with solid experience in **backend development.**
 
-- 🌍 I’m based in [Nairobi, Kenya](Nairobi, Kenya)
+- 🌍 I’m based in [Nairobi, Kenya](https://www.bing.com/maps?osid=c7a10a12-922c-4977-a93e-b5668274c5ac&cp=-1.286517~36.735493&lvl=12.06&pi=0&imgid=986bc325-d193-4cca-a474-f00439d304ff&v=2&sV=2&form=S00027)
 
 - 💬 Ask me about **Automation, Infrastructure as Code (IaC) and Continuous Integration/Continuous Deployment (CI/CD)**
 
