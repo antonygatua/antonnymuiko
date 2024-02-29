@@ -2,15 +2,15 @@
 
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antonny Muiko</h1>
 
-<p align="center">I'm a  DevOps engineer passionate about streamlining development processes and optimizing infrastructure for efficient software delivery. Dedicated to enhancing machine learning development pipelines and optimizing infrastructure to facilitate seamless deployment and operation of models.  I design and implement robust and scalable server-side solutions, optimizing database performance and ensuring smooth data flow to support efficient software functionality with great user experience. </p>
+<p align="center">I'm a full-stack data scientist committed to harnessing data-driven insights for informed decision-making and fostering favourable results. My focus extends to enhancing machine learning development pipelines and refining infrastructure for seamless model deployment and operation. I specialize in designing and deploying robust, scalable server-side solutions, optimizing database performance, and ensuring uninterrupted data flow to uphold efficient software functionality and deliver exceptional user experiences.</p>
 
 ## 🧑‍💼 Here is what I do
 
-- 🤖 A **DevOps engineer** with solid experience in **backend development.**
+- 🤖 A **Full-Stack Data Scientist** with solid experience in **backend development.**
 
 - 🌍 I’m based in [Nairobi, Kenya](https://www.bing.com/maps?osid=c7a10a12-922c-4977-a93e-b5668274c5ac&cp=-1.286517~36.735493&lvl=12.06&pi=0&imgid=986bc325-d193-4cca-a474-f00439d304ff&v=2&sV=2&form=S00027)
 
-- 💬 Ask me about **Automation, Infrastructure as Code (IaC) and Continuous Integration/Continuous Deployment (CI/CD)**
+- 💬 
 
 - 🧠 I'm currently exploring **MLOPs**
 
