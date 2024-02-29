@@ -5,7 +5,7 @@
 <div align="center">I'm a full-stack data scientist committed to harnessing data-driven insights for informed decision-making and fostering favourable results. My focus extends to enhancing machine learning development pipelines and refining infrastructure for seamless model deployment and operation. I specialize in designing and deploying robust, scalable server-side solutions, optimizing database performance, and ensuring uninterrupted data flow to uphold efficient software functionality and deliver exceptional user experiences.</div>  
   
 ## RapidFire  
-- ✨ A Full-Stack Data Scientist with solid experience in backend development.  
+- ✨ A **Full-Stack Data Scientist** with solid experience in backend development.  
   
 
 - 🌍 Working remotely from Nairobi-Kenya.  
