@@ -2,7 +2,10 @@
 
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antonny Muiko</h1>
 
-<div align="center">I'm a full-stack data scientist 👨‍💼 committed to harnessing data-driven insights 📈 for informed decision-making and fostering favourable results 🧙. My focus extends to enhancing machine learning development pipelines 🔎 and refining infrastructure for seamless model deployment and operation 🔩. I specialize in designing and deploying robust, scalable server-side solutions, optimizing database performance, and ensuring uninterrupted data flow to uphold efficient software functionality and deliver exceptional user experiences .🕵️</div> 
+<div align="center">
+    <p>👨‍💻 Full-Stack Data Scientist & ML Enthusiast</p>
+    <p>I’m all about turning data into actionable insights 📊 and building ML solutions that make a real impact 🚀. My passion lies in designing end-to-end ML pipelines that scale efficiently and refining systems for smooth model deployment and operation ⚙️. From data wrangling and feature engineering to deploying models in production 🛠️, I bring technical skills and creativity to every project, ensuring the results are reliable, scalable, and ready to transform user experiences. Always learning, always optimizing—because there’s always a smarter way to use data 💡.</p>
+</div>
   
 ## RapidFire  
 - ✨ A **Full-Stack Data Scientist** with solid experience in backend development.  
